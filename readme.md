@@ -1,0 +1,1 @@
+This is small demo project that shows how to use Azure AD authorization in Swagger UI for asp.net Core web API.
